@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoard
+Implementation-Version: 1.0.0
+Built-By: 401ST-013
+Implementation-Vendor-Id: kr.ac.kopo.ctc.spring.board
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBoard
+Created-By: Maven Integration for Eclipse
+

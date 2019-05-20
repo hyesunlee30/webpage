@@ -1,0 +1,17 @@
+127.0.0.1 - - [14/Mar/2019:16:10:27 +0900] "GET / HTTP/1.1" 404 1099
+0:0:0:0:0:0:0:1 - - [14/Mar/2019:16:10:28 +0900] "GET /SpringBoard/WEB-INF/classes/kr/ac/kopo/ctc/spring/board/repository/Gongji1Repository.java HTTP/1.1" 404 1072
+192.168.23.26 - - [14/Mar/2019:16:10:45 +0900] "GET /Gongji1/findAll HTTP/1.1" 404 1118
+192.168.23.26 - - [14/Mar/2019:16:10:45 +0900] "GET /favicon.ico HTTP/1.1" 404 1110
+192.168.23.26 - - [14/Mar/2019:16:11:00 +0900] "GET /SpringBoard/Gongji1/list HTTP/1.1" 404 306
+192.168.23.26 - - [14/Mar/2019:16:11:07 +0900] "GET /SpringBoard/Gongji1/findAll HTTP/1.1" 500 497
+192.168.23.26 - - [14/Mar/2019:16:11:09 +0900] "GET /SpringBoard/Gongji1/findAll HTTP/1.1" 500 497
+0:0:0:0:0:0:0:1 - - [14/Mar/2019:16:13:03 +0900] "GET /SpringBoard/WEB-INF/views/Gongji1/findAll.jsp HTTP/1.1" 404 1072
+192.168.23.26 - - [14/Mar/2019:16:13:07 +0900] "GET /SpringBoard/Gongji1/findAll HTTP/1.1" 500 497
+192.168.23.26 - - [14/Mar/2019:16:13:09 +0900] "GET /SpringBoard/Gongji1/findAll HTTP/1.1" 500 497
+192.168.23.26 - - [14/Mar/2019:16:13:10 +0900] "GET /SpringBoard/Gongji1/findAll HTTP/1.1" 500 497
+192.168.23.26 - - [14/Mar/2019:16:13:11 +0900] "GET /SpringBoard/sample/list HTTP/1.1" 200 12
+192.168.23.26 - - [14/Mar/2019:16:13:25 +0900] "GET /SpringBoard/Gongj1/findAll HTTP/1.1" 404 306
+192.168.23.26 - - [14/Mar/2019:16:13:36 +0900] "GET /SpringBoard/Gongji1/findAll HTTP/1.1" 500 497
+192.168.23.26 - - [14/Mar/2019:16:14:00 +0900] "GET /SpringBoard/Gongji1/findAll HTTP/1.1" 500 497
+192.168.23.26 - - [14/Mar/2019:16:14:36 +0900] "GET /SpringBoard/Gongji1 HTTP/1.1" 404 306
+192.168.23.26 - - [14/Mar/2019:16:14:45 +0900] "GET /SpringBoard/Gongji1/findAll HTTP/1.1" 500 497

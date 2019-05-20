@@ -1,0 +1,4 @@
+127.0.0.1 - - [02/Feb/2019:17:40:15 +0900] "GET / HTTP/1.1" 404 1099
+0:0:0:0:0:0:0:1 - - [02/Feb/2019:17:40:16 +0900] "GET /SpringBoard/WEB-INF/classes/kr/ac/kopo/ctc/spring/board/web/SampleController.java HTTP/1.1" 404 1072
+0:0:0:0:0:0:0:1 - - [02/Feb/2019:17:40:33 +0900] "GET /SpringBoard/sample/list HTTP/1.1" 200 246
+0:0:0:0:0:0:0:1 - - [02/Feb/2019:17:40:33 +0900] "GET /favicon.ico HTTP/1.1" 404 1110

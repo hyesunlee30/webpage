@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="Gongji1" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="gongji1"/>
+			<item value="Gongj"/>
+			<item value="Gongj1"/>
+			<item value="Gongji1"/>
+			<item value="insertPrcss"/>
+			<item value="action"/>
+			<item value="searchString"/>
+			<item value="contents"/>
+			<item value="&#x09;//title과 content의 작성글 검사. 기호나 공백을 막았다."/>
+			<item value="aspect"/>
+			<item value="map"/>
+			<item value="request"/>
+			<item value="width"/>
+			<item value="pagemaker.curPage"/>
+			<item value="do"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="288" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="391" key="DIALOG_HEIGHT"/>
+		<item value="985" key="DIALOG_X_ORIGIN"/>
+		<item value="157" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
